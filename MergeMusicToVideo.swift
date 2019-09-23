@@ -27,7 +27,7 @@ class DataPost: NSObject {
     var arrayVideosTemp: NSMutableArray?
     var imageThumb: UIImage?
     var music: Music?
-    var urlCompareVideo: URL?
+    var urlCompareVideo: ahiahi
     
     override init() {
         super.init()
